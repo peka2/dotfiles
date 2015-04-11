@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/etc/httpd/conf.d'
+let g:netrw_dirhist_2='/var/www/parupunte.net/public_html/logbox'
+let g:netrw_dirhist_3='/usr/share/php/ragnarok/core'
+let g:netrw_dirhist_4='/usr/share/php/ragnarok'
+let g:netrw_dirhist_5='/var/www/parupunte.net/public_html/NijiBura'
+let g:netrw_dirhist_6='/var/www/parupunte.net/public_html/logbox'
+let g:netrw_dirhist_7='/var/www/parupunte.net/public_html'
